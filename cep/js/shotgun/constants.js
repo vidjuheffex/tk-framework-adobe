@@ -54,6 +54,13 @@ sg_constants.product_info = {
         debug_url: "http://localhost:45218"
     }
 
+    // Premiere Pro
+    PPRO: {
+        display_name: "Premiere Pro",
+        tk_engine_name: "tk-premierepro",
+        debug_url: "http://localhost:45219"
+    } 
+
     // NOTE: the debug ports are defined in .debug file at the top level of the
     // plugin.
 };
