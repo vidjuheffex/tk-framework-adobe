@@ -52,7 +52,7 @@ sg_constants.product_info = {
         display_name: "After Effects",
         tk_engine_name: "tk-aftereffects",
         debug_url: "http://localhost:45218"
-    }
+    },
 
     // Premiere Pro
     PPRO: {
